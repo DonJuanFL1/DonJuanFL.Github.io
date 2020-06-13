@@ -1,0 +1,47 @@
+body {
+  margin:0;
+  padding:0;
+  color: black;
+  background: #FFFFFF;
+  font-size: 20px;
+  Font-family: ”Times New Roman” , Times, serif;
+ }
+ #wrapper {
+  width: 90%;
+  margin:0 auto;
+  background:#FFF;
+ }
+ #header {
+   display: none;
+ 
+ }
+ h1 {
+  margin:0;
+ }
+ #main {
+  float: left;
+  width:95%;
+  background:#FFFFFF;
+  height: 400px;
+ }
+ #sidebar {
+  display: none;
+ }
+ #footer {
+  clear: both;
+  background: #FFFFFF;
+  width:100%
+ }
+ #footer p {
+  margin:0;
+  padding:5px 0px
+  ;text-align: center;
+  font-size: 14px;
+ }
+ P, h2{
+  padding-left:0px;
+ }
+ #printnotice {
+  display: block;
+  border-style: dotted;
+ }
